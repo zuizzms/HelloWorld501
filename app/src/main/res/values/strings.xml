@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld501</string>
+    <string name="question_text">Click the button!</string>
+    <string name="click_button">Click Here</string>
+    <string name="hello_world_toast">Hello World!</string>
+</resources>
